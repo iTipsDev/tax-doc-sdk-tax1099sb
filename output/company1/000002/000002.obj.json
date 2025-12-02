@@ -1,0 +1,55 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "52-626-4936",
+  "taxFormId" : "8465993",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0113852",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Hintz LLC"
+    },
+    "address" : {
+      "line1" : "71044 Carter Wells",
+      "city" : "Mervinhaven",
+      "region" : "KY",
+      "postalCode" : "27192"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "kaitlyn.mills@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-52-1706",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Alfredo",
+      "last" : "Fritsch"
+    },
+    "address" : {
+      "line1" : "62355 Goldner Crossing",
+      "city" : "Zemlakchester",
+      "region" : "WY",
+      "postalCode" : "17549"
+    },
+    "email" : "chastity.friesen@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "policyNumber" : "policyNumber",
+  "contractInvestment" : 200,
+  "surrenderAmount" : 300,
+  "contactNameAddress" : {
+    "line1" : "6391 Andreas Loaf",
+    "city" : "Chastityburgh",
+    "region" : "AL",
+    "postalCode" : "94663",
+    "name1" : "Labadie-O'Kon",
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    }
+  }
+}

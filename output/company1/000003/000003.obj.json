@@ -1,0 +1,55 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "72-111-8024",
+  "taxFormId" : "4319395",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0113852",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Hintz LLC"
+    },
+    "address" : {
+      "line1" : "71044 Carter Wells",
+      "city" : "Mervinhaven",
+      "region" : "KY",
+      "postalCode" : "27192"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "kaitlyn.mills@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-70-8027",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Lynn",
+      "last" : "Graham"
+    },
+    "address" : {
+      "line1" : "917 Zulauf Flat",
+      "city" : "Haagtown",
+      "region" : "NV",
+      "postalCode" : "90431"
+    },
+    "email" : "wendie.gottlieb@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "policyNumber" : "policyNumber",
+  "contractInvestment" : 200,
+  "surrenderAmount" : 300,
+  "contactNameAddress" : {
+    "line1" : "4755 Brett Courts",
+    "city" : "Croninfurt",
+    "region" : "NV",
+    "postalCode" : "26417",
+    "name1" : "Cremin-Bernier",
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    }
+  }
+}
