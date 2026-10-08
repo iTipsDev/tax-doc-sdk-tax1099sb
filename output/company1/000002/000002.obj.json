@@ -1,0 +1,65 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "13-552-8567",
+  "taxFormId" : "6034003",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0140297",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Bernhard Group"
+    },
+    "address" : {
+      "line1" : "46754 Beer Inlet",
+      "city" : "North Benjamin",
+      "region" : "PA",
+      "postalCode" : "46309",
+      "unitType" : "Apt",
+      "unitNumber" : "450"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "lamont.koss@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-76-0177",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Rosaria",
+      "middle" : "Trenton",
+      "last" : "Medhurst"
+    },
+    "businessName" : {
+      "name1" : "Robel-Daugherty"
+    },
+    "address" : {
+      "line1" : "58037 Vincenzo Mission",
+      "city" : "Kizzyburgh",
+      "region" : "AZ",
+      "postalCode" : "21383",
+      "unitType" : "Apt",
+      "unitNumber" : "613"
+    },
+    "email" : "barney.walsh@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "policyNumber" : "391-86879-3",
+  "contractInvestment" : 200,
+  "surrenderAmount" : 300,
+  "contactNameAddress" : {
+    "line1" : "7893 Sipes Unions",
+    "city" : "Markettaberg",
+    "region" : "ME",
+    "postalCode" : "04596",
+    "unitType" : "Apt",
+    "unitNumber" : "831",
+    "name1" : "Durgan-Anderson",
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    }
+  }
+}

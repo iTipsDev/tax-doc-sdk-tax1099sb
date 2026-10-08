@@ -1,0 +1,65 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "50-774-0722",
+  "taxFormId" : "0268607",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0140297",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Bernhard Group"
+    },
+    "address" : {
+      "line1" : "46754 Beer Inlet",
+      "city" : "North Benjamin",
+      "region" : "PA",
+      "postalCode" : "46309",
+      "unitType" : "Apt",
+      "unitNumber" : "450"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "lamont.koss@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-06-2442",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Gregoria",
+      "middle" : "Britt",
+      "last" : "Moore"
+    },
+    "businessName" : {
+      "name1" : "Cronin-Marquardt"
+    },
+    "address" : {
+      "line1" : "6177 Mauricio Fields",
+      "city" : "Francisport",
+      "region" : "WY",
+      "postalCode" : "73831",
+      "unitType" : "Apt",
+      "unitNumber" : "738"
+    },
+    "email" : "yolando.gusikowski@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "policyNumber" : "042-95442-1",
+  "contractInvestment" : 200,
+  "surrenderAmount" : 300,
+  "contactNameAddress" : {
+    "line1" : "676 Ronald Hill",
+    "city" : "South Leonard",
+    "region" : "CA",
+    "postalCode" : "24178",
+    "unitType" : "Apt",
+    "unitNumber" : "504",
+    "name1" : "Bruen-Renner",
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    }
+  }
+}

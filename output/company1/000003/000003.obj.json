@@ -1,0 +1,65 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "77-475-8730",
+  "taxFormId" : "6417325",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0140297",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Bernhard Group"
+    },
+    "address" : {
+      "line1" : "46754 Beer Inlet",
+      "city" : "North Benjamin",
+      "region" : "PA",
+      "postalCode" : "46309",
+      "unitType" : "Apt",
+      "unitNumber" : "450"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "lamont.koss@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-32-2560",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Cameron",
+      "middle" : "Bebe",
+      "last" : "Bahringer"
+    },
+    "businessName" : {
+      "name1" : "Smith Inc"
+    },
+    "address" : {
+      "line1" : "4411 Bette Mountain",
+      "city" : "Rathfurt",
+      "region" : "KS",
+      "postalCode" : "83201",
+      "unitType" : "Apt",
+      "unitNumber" : "571"
+    },
+    "email" : "joetta.mayer@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "policyNumber" : "139-07130-1",
+  "contractInvestment" : 200,
+  "surrenderAmount" : 300,
+  "contactNameAddress" : {
+    "line1" : "27847 Schmitt Lane",
+    "city" : "Schimmelshire",
+    "region" : "CO",
+    "postalCode" : "95823",
+    "unitType" : "Apt",
+    "unitNumber" : "776",
+    "name1" : "Cronin, Bosco and Barton",
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    }
+  }
+}
